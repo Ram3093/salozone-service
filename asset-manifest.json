@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/salozone-service/static/css/main.bc8473c6.chunk.css",
+    "main.js": "/salozone-service/static/js/main.ee989e17.chunk.js",
+    "main.js.map": "/salozone-service/static/js/main.ee989e17.chunk.js.map",
+    "runtime-main.js": "/salozone-service/static/js/runtime-main.d1ecfb32.js",
+    "runtime-main.js.map": "/salozone-service/static/js/runtime-main.d1ecfb32.js.map",
+    "static/css/2.94fff46c.chunk.css": "/salozone-service/static/css/2.94fff46c.chunk.css",
+    "static/js/2.27a56d09.chunk.js": "/salozone-service/static/js/2.27a56d09.chunk.js",
+    "static/js/2.27a56d09.chunk.js.map": "/salozone-service/static/js/2.27a56d09.chunk.js.map",
+    "index.html": "/salozone-service/index.html",
+    "precache-manifest.b05903cba700c4480ee944c55bdae15a.js": "/salozone-service/precache-manifest.b05903cba700c4480ee944c55bdae15a.js",
+    "service-worker.js": "/salozone-service/service-worker.js",
+    "static/css/2.94fff46c.chunk.css.map": "/salozone-service/static/css/2.94fff46c.chunk.css.map",
+    "static/css/main.bc8473c6.chunk.css.map": "/salozone-service/static/css/main.bc8473c6.chunk.css.map",
+    "static/js/2.27a56d09.chunk.js.LICENSE.txt": "/salozone-service/static/js/2.27a56d09.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/salozone-service/static/media/img1.ce43a36f.jpg",
+    "static/media/img2.jpg": "/salozone-service/static/media/img2.e42948a3.jpg",
+    "static/media/img3.jpg": "/salozone-service/static/media/img3.743f9c21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ecfb32.js",
+    "static/css/2.94fff46c.chunk.css",
+    "static/js/2.27a56d09.chunk.js",
+    "static/css/main.bc8473c6.chunk.css",
+    "static/js/main.ee989e17.chunk.js"
+  ]
+}
